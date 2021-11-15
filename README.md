@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Emerson Li!
 - 👀 I’m interested in full-stack web development, data science, and CS research
 - 🌱 I’m currently studying Computer Science at Columbia University
+  - On campus, I'm part of Columbia Daily Spectator Engineering and ADI Mentorship! 
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 How to reach me [emersonli208@gmail.com]
 <br>
