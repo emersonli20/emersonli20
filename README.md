@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 How to reach me [emersonli208@gmail.com]
 <br>
-<em> ~ projects down here ↓ ~ </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
+<em> ~ projects down here ↓ ~
 <!---
 emersonli20/emersonli20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
